@@ -17,14 +17,16 @@ Here are some ideas to get you started:
 
 <p align="center">
 <Strong>Hi there 👋</Strong>
+    
     🔭 I’m currently working on UOS LIFE
+    
     🌱 I’m currently learning backend
 </p>
 
 <br>
 
 <p align="center">
-    <Strong>☁️velog️☁️</Strong><br>
+    <Strong>☁️velog️☁️</Strong><br><br>
     <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 
