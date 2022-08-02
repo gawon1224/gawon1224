@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <p align="center">
 Hi there 👋<br>
-🔭 I’m currently working on UOS LIFE<br>
-🌱 I’m currently learning backend<br>
+<!🔭 I’m currently working on UOS LIFE<br>
+🌱 I’m currently learning backend<br>>
 </p>
 
 <br>
