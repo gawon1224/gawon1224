@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20I'm%20Gawon&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Gawon%20Seo&fontSize=90)
 
 ### Hi there 👋
 
@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
+    💡used at least once
 </p>
 
 <p align="center" display="inline-block">
@@ -36,4 +37,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/C-Sharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
 </p>
