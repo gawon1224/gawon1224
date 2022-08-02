@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gawon1224/gawon1224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +15,17 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hi%20I'm%20Gawon&fontSize=90)
 
+### Hi there 👋
+
 <br>
 
- <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
- 
+<p align="center">
+    <Strong>☁️velog️</Strong><br><br>
+    <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+</p>
+
+<br>
+
 <p align="center">
     <Strong>⚒️Tech Stack⚒️</Strong><br>
 </p>
