@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Gawon%20Seo&fontSize=90)
 
 <p align="center">
-<Strong>Hi there 👋</Strong>
-    
-    🔭 I’m currently working on UOS LIFE
-    
-    🌱 I’m currently learning backend
+Hi there 👋<br>
+🔭 I’m currently working on UOS LIFE<br>
+🌱 I’m currently learning backend<br>
 </p>
 
 <br>
