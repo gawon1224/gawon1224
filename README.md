@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <Strong>☁️velog️☁️</Strong><br><br>
-    <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/DevBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
+    <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/TechBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 
 <br>
@@ -34,10 +34,15 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-    <img src="https://img.shields.io/badge/C-Sharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white">
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+    <img src="https://img.shields.io/badge/C-Sharp-239120?style=for-the-badge&logo=C-Sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/Matlab-3776AB?style=for-the-badge&logo=Matlab&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=Arduino&logoColor=white">
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=Scala&logoColor=white">
 </p>
