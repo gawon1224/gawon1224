@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
-    <Strong>☁️velog️☁️</Strong><br><br>
+    <Strong>☁️This is my tech blog☁️</Strong><br><br>
     <a href="https://velog.io/@gawon1224" target="_blank"><img src="https://img.shields.io/badge/TechBlog-535D6C?style=flat-square&logo=Blogger&logoColor=white"/></a>
 </p>
 
